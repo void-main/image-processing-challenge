@@ -17,7 +17,7 @@ In order to be considered for the image processing position, you mush complete t
 3. In the *source* directory, please create an image processing app that accomplishes the following:
 	- Loads and displays the sample image in this repo.
 	- Calculates and displays the histogram of the image.
-	- Equalize the histogram and displays the final result.
+	- Save the output image with equalized histogram to disk.
 4. Commit and Push your code to your new repository
 5. Send us a pull request, we will review your code and get back to you
 
